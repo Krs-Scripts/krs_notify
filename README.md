@@ -125,4 +125,3 @@ exports.krs_notify:Alert("ENGINE", "Your vehicle is damaged!", 7000, 'warning')
 -- Error
 exports.krs_notify:Alert("POLICE", "You are under arrest", 10000, 'error')
 ```
-```
