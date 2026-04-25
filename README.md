@@ -93,7 +93,7 @@ function QBCore.Functions.Notify(text, textype, length)
 end
 ```
 
-### C. Qbox Framework
+### C. QBX Framework
 Similar to QBCore, you can override the global notify function or use the export directly in your scripts:
 
 ```lua
